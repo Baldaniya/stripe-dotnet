@@ -19,3 +19,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+i try to install packeges 
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error		Could not install package 'RestSharp 105.0.1'. You are trying to install this package into a project that targets 'MonoAndroid,Version=v7.0', but the package does not contain any assembly references or content files that are compatible with that framework. For more information, contact the package author.			0	
